@@ -1,0 +1,6 @@
+{
+  "name": "AI Code Reviewer",
+  "description": "Instant AI code review workbench for Python, C++, and Java with bug detection, refactoring suggestions, complexity analysis, and side-by-side diffs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
